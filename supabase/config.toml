@@ -1,0 +1,11 @@
+project_id = "portfolio"
+
+[db]
+major_version = 16
+
+[db.migrations]
+enabled = true
+
+[db.seed]
+enabled = false
+
